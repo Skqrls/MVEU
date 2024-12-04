@@ -1,0 +1,10 @@
+A:\Labirint\Labirint\bin\Debug\Labirint.exe.config
+A:\Labirint\Labirint\bin\Debug\Labirint.exe
+A:\Labirint\Labirint\bin\Debug\Labirint.pdb
+A:\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+A:\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+A:\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+A:\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+A:\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+A:\Labirint\Labirint\obj\Debug\Labirint.exe
+A:\Labirint\Labirint\obj\Debug\Labirint.pdb
