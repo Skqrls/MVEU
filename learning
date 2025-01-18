@@ -1,0 +1,129 @@
+№1
+<?php
+$a = '10';
+
+$b = '5';
+
+$c = $a - $b;
+
+$d = '7';
+
+$res = $c + $d;
+
+print_r($res);
+
+?>
+
+№2
+$str = "Skovorodka";
+
+print_r($str[0] . $str[2] . $str[1]);
+
+print_r("\n");
+
+print_r($str[3] . $str[2] . $str[7] . $str[-1]);
+
+print_r("\n");
+
+print_r($str[5] . $str[2] . $str[-3]);
+
+print_r("\n");
+
+print_r($str[-3] . $str[2] . $str[0] . $str[1] . $str[-1]);
+
+№3
+$str = "Skovorodka";
+
+print_r($str[0] . $str[2] . $str[1]);
+
+print_r("\n");
+
+print_r($str[3] . $str[2] . $str[7] . $str[-1]);
+
+print_r("\n");
+
+print_r($str[5] . $str[2] . $str[-3]);
+
+print_r("\n");
+
+print_r($str[-3] . $str[2] . $str[0] . $str[1] . $str[-1]);
+
+№4
+$r = '12';
+$p = '3.14';
+$s = $p * ($r ** 2);
+print_r($s);
+
+№5
+<?php
+$string = '12345';
+
+$sum = 0;
+
+for ($i = 0; $i < strlen($string); $i++) {
+    $sum += (int)$string[$i]; 
+}
+
+echo "Сумма цифр строки '{$string}' равна {$sum}.";
+?>
+
+№6
+<?php
+$a = 10;
+print_r($a);
+
+print_r("\n");
+$a = 20;
+print_r($a);
+?>
+
+№7
+<?php
+$a = '1' + '2' + '3';
+echo $a;
+?>
+
+№8
+$c = '10';
+$d = '5';
+$res = $c + $d;
+print_r($res);
+
+№9
+$a = '10';
+$b = '5';
+$c = $a - $b;
+$d = 7;
+$res = $d + $c;
+print_r($res);
+
+№10
+$a = '-12';
+print_r(-$a);
+
+№11
+$a = '10';
+$b = '3';
+print_r($a % $b);
+
+№12
+print_r(2 ** 10);
+
+№13
+$a = 'abc';
+$b = 'def';
+print_r($a . $b);
+
+№14
+$h = 'hello';
+$w = 'world';
+print_r($h .' '. $w);
+
+№15
+$str = 'Hello World';
+print_r(strlen($str));
+
+№16
+$a = 'перпендикуляр';
+$b = 'радиус';
+print_r((strlen($a) + strlen($b)) / '2');
